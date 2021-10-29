@@ -1,8 +1,10 @@
 # METADATA FOR CML-ACTIONS
 name: CML-Actions
 description : This is a simple custom template for CML workflow for Github Actions
-icon: box
-color: gray-dark
+
+branding:
+    icon: box
+    color: gray-dark
 
 # CONDITION FOR CML WORKFLOW
 on:

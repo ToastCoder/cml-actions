@@ -10,4 +10,7 @@ CML Actions is a simple, easy-to-use template for your Machine Learning code tes
 [Vigneshwar Ravichandar](https://github.com/ToastCoder)
 
 ### Want to contribute? 
-Check out the contribution guidelines [here](https://github.com/ToastCoder/cml-actions/blob/master/CONTRIBUTING.md)
+Check out our [Contribution Guidelines](https://github.com/ToastCoder/cml-actions/blob/master/CONTRIBUTING.md)
+
+### Found an issue?/ Say a suggestion?
+Use the [Github Issue Tracker](https://github.com/ToastCoder/cml-actions/issues) and let us know.

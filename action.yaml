@@ -1,5 +1,5 @@
 name: CML-Actions
-
+description : This is a simple custom template for CML workflow for Github Actions
 on:
     push:
         branches: [ master ]

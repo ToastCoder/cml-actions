@@ -9,9 +9,9 @@ branding:
 # CONDITION FOR CML WORKFLOW
 on:
     push:
-        branches: [ master ]
+        branches: [ $default-branch ]
     pull_request:
-        branches: [ master ]
+        branches: [ $default-branch ]
 
 # CML WORKFLOW
 jobs:

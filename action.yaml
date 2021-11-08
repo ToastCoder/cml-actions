@@ -20,12 +20,15 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
-    - name: install_os_dependencies
+    - name: Install OS Dependencies
     - run: apt install python3 && apt install python3-pip
     
-    - name: install_py_dependencies
+    - name: Install Python Dependencies
     - run: python3 -m pip3 install -r requirements.txt
     
+    - name: Download Dataset source
+    - run: wget "DATASET URL"
+
     - name: Run file
     - run: python3 main.py
     

@@ -14,5 +14,5 @@ Also, make sure you have the Dataset source URL.
 ### Want to contribute? 
 Check out our [Contribution Guidelines](https://github.com/ToastCoder/cml-actions/blob/master/CONTRIBUTING.md)
 
-### Found an issue?/ Say a suggestion?
+### Found an issue? / Say a suggestion?
 Use the [Github Issue Tracker](https://github.com/ToastCoder/cml-actions/issues) and let us know.
